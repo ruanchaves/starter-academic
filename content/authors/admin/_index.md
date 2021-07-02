@@ -14,13 +14,13 @@ role: Machine Learning Engineer
 #  url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Machine Learning Engineer. Natural Language Processsing, Computational Linguistics, Deep Learning.
+bio: Machine Learning Engineer
 
 # Interests to show in About widget
 interests:
 - Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Natural Language Processing
+- Deep Learning
 
 # Education to show in About widget
 education:
